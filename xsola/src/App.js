@@ -4,7 +4,7 @@ import './App.css';
 // ─────────────────────────────────────────
 // CONFIG
 // ─────────────────────────────────────────
-const BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+const BASE_URL = process.env.REACT_APP_API_URL || 'https://xsola-backend-7.onrender.com';
 const SHOP_ID  = '1';
 
 // ─────────────────────────────────────────
